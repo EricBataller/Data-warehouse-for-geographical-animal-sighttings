@@ -1,4 +1,4 @@
-# Datawarehouse-for-geographical-animal-sighttings
+# Data-warehouse-for-geographical-animal-sighttings
 Geographical occurrences and biodiversity data on carnivore mammals in Spain.
 
 Project for Data warehousing & business intelligence: 
